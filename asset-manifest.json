@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/schwann2402.github.io/drum-machine-project/static/css/main.bee250cb.css",
-    "main.js": "/schwann2402.github.io/drum-machine-project/static/js/main.24c04110.js",
-    "static/js/453.9890bd50.chunk.js": "/schwann2402.github.io/drum-machine-project/static/js/453.9890bd50.chunk.js",
-    "index.html": "/schwann2402.github.io/drum-machine-project/index.html",
-    "main.bee250cb.css.map": "/schwann2402.github.io/drum-machine-project/static/css/main.bee250cb.css.map",
-    "main.24c04110.js.map": "/schwann2402.github.io/drum-machine-project/static/js/main.24c04110.js.map",
-    "453.9890bd50.chunk.js.map": "/schwann2402.github.io/drum-machine-project/static/js/453.9890bd50.chunk.js.map"
+    "main.css": "/drum-machine-project/static/css/main.bee250cb.css",
+    "main.js": "/drum-machine-project/static/js/main.3cb77ac7.js",
+    "static/js/453.9890bd50.chunk.js": "/drum-machine-project/static/js/453.9890bd50.chunk.js",
+    "index.html": "/drum-machine-project/index.html",
+    "main.bee250cb.css.map": "/drum-machine-project/static/css/main.bee250cb.css.map",
+    "main.3cb77ac7.js.map": "/drum-machine-project/static/js/main.3cb77ac7.js.map",
+    "453.9890bd50.chunk.js.map": "/drum-machine-project/static/js/453.9890bd50.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bee250cb.css",
-    "static/js/main.24c04110.js"
+    "static/js/main.3cb77ac7.js"
   ]
 }
