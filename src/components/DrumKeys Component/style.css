@@ -1,0 +1,12 @@
+audio {
+  display: none
+}
+
+button {
+  border: 3px solid blue;
+  padding: 20px;
+  background-color: lightblue;
+  margin: 0 2px;
+  font-size: 30px;
+  font-weight: bolder;
+}
